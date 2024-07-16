@@ -1,0 +1,74 @@
+body, html {
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+}
+
+.head {
+    text-align: right;
+    font-size: 15px;
+    font-family:  Pitchsans Regular, sans-serif;
+    font-weight: 100;
+}
+
+body {
+    background-image: linear-gradient(to right, cyan , pink, white);
+    scroll-behavior: smooth;
+}
+
+img {
+    height: 230px;
+    border-radius: 110px;
+    border-color: bisque;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    margin-left: 64%;
+}
+
+.intro {
+    margin-top: 60px;
+}
+
+.section-about {
+    margin: 20px;
+    text-decoration: none;
+    color: rgb(153, 96, 22);
+}
+
+.section-works {
+    color: rgb(153, 96, 22);
+    margin: 20px;
+    text-decoration: none;
+}
+
+.section-socials {
+    color: rgb(153, 96, 22);
+    margin: 20px;
+    text-decoration: none;
+}
+
+.icons img {
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.jump-to-top {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 20px; 
+}
+
+/* styles.css */
+#text-container {
+    font-size: 24px;
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+  }
+  
+  .colored-text {
+    color: red; /* Change to your desired color */
+  }
+  
+  
